@@ -1,0 +1,33 @@
+/* JavaFX CSS */
+
+.blue {
+    -fx-text-fill: #006464;
+    -fx-background-color: #DAE8FC;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}
+
+.purple {
+    -fx-text-fill: #006464;
+    -fx-background-color: #9673A6;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}
+
+.green {
+    -fx-text-fill: #006464;
+    -fx-background-color: #D5E8D4;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}
+
+.orange {
+    -fx-text-fill: #006464;
+    -fx-background-color: #FFE6CC;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}

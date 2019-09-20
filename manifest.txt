@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: kguenthner
+Class-Path: json-simple-1.1.1.jar:controlsfx-8.40.15.jar
+Main-Class: application.Main
+
